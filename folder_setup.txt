@@ -1,0 +1,12 @@
+supabase-agent-system/
+│
+├── backend/
+│   ├── app.py
+│   ├── agents/
+│   │   ├── root_agent.py
+│   │   └── supabase_agent.py
+│   ├── requirements.txt
+│   └── .env
+│
+├── frontend/
+│   ├── frontend.html
