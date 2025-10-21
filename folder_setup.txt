@@ -1,10 +1,9 @@
-supabase-agent-system/
+ai-agents-workshop/
 │
 ├── backend/
 │   ├── app.py
 │   ├── agents/
 │   │   ├── root_agent.py
-│   │   └── supabase_agent.py
 │   ├── requirements.txt
 │   └── .env
 │
